@@ -1,0 +1,16 @@
+{
+  "name": "seamlesschex-sdk",
+  "version": "1.0.0",
+  "title": "Seamlesschex SDK",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "node ./test"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {}
+}
