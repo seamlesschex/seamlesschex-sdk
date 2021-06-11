@@ -68,7 +68,7 @@ You can click on the :link: icon to access the detailed API reference for each m
     * ```update(bank_routing)``` [:link:](https://developers.seamlesschex.com/seamlesschex/docs/#update-a-check)
     * ```void(check_id)``` [:link:](https://developers.seamlesschex.com/seamlesschex/docs/#void-a-check)
  	
- * __Checkbook.tokens__
+ * __Seamlesschex.tokens__
  	* ```create(params)``` [:link:](https://developers.seamlesschex.com/seamlesschex/docs/#tokenization)
  
 ---
