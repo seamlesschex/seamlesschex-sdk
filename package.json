@@ -6,9 +6,10 @@
     "type": "git",
     "url": ""
   },
-  "scripts": {
-    "test": "node ./test"
+  "engines": {
+    "node": "^12"
   },
+  "main": "seamlesschex.js",
   "dependencies": {
     "axios": "^0.21.1"
   },
